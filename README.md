@@ -1,0 +1,1 @@
+Projects for the course 02516 Introduction to deep learning in computer vision.
